@@ -1,144 +1,144 @@
 name,code,pop
-Antigua and Barbuda,ATG,83039
-Algeria,DZA,32854159
-Azerbaijan,AZE,8352021
-Albania,ALB,3153731
-Armenia,ARM,3017661
-Angola,AGO,16095214
+Antigua and Barbuda,ATG,1
+Algeria,DZA,7
+Azerbaijan,AZE,3
+Albania,ALB,4
+Armenia,ARM,3
+Angola,AGO,1
 American Samoa,ASM,64051
-Argentina,ARG,38747148
-Australia,AUS,20310208
-Bahrain,BHR,724788
-Barbados,BRB,291933
+Argentina,ARG,11
+Australia,AUS,20
+Bahrain,BHR,3
+Barbados,BRB,1
 Bermuda,BMU,64174
 Bahamas,BHS,323295
-Bangladesh,BGD,15328112
-Belize,BLZ,275546
-Bosnia and Herzegovina,BIH,3915238
-Bolivia,BOL,9182015
-Burma,MMR,47967266
-Benin,BEN,8490301
-Solomon Islands,SLB,472419
-Brazil,BRA,186830759
-Bulgaria,BGR,7744591
+Bangladesh,BGD,3
+Belize,BLZ,1
+Bosnia and Herzegovina,BIH,3
+Bolivia,BOL,7
+Burma,MMR,2
+Benin,BEN,2
+Solomon Islands,SLB,1
+Brazil,BRA,22
+Bulgaria,BGR,10
 Brunei Darussalam,BRN,373831
-Canada,CAN,32270507
-Cambodia,KHM,13955507
-Sri Lanka,LKA,19120763
-Congo,COG,3609851
-Democratic Republic of the Congo,COD,58740547
+Canada,CAN,20
+Cambodia,KHM,3
+Sri Lanka,LKA,8
+Congo,COG,1
+Democratic Republic of the Congo,COD,5
 Burundi,BDI,7858791
-China,CHN,1312978855
-Afghanistan,AFG,25067407
+China,CHN,55
+Afghanistan,AFG,2
 Bhutan,BTN,637013
-Chile,CHL,16295102
+Chile,CHL,6
 Cayman Islands,CYM,45591
-Cameroon,CMR,17795149
-Chad,TCD,10145609
+Cameroon,CMR,2
+Chad,TCD,2
 Comoros,COM,797902
-Colombia,COL,4494579
-Costa Rica,CRI,4327228
-Central African Republic,CAF,4191429
-Cuba,CUB,11259905
-Cape Verde,CPV,506807
+Colombia,COL,9
+Costa Rica,CRI,4
+Central African Republic,CAF,2
+Cuba,CUB,9
+Cape Verde,CPV,1
 Cook Islands,COK,13984
-Cyprus,CYP,836321
-Denmark,DNK,5416945
+Cyprus,CYP,3
+Denmark,DNK,10
 Djibouti,DJI,804206
-Dominica,DMA,67827
-Dominican Republic,DOM,9469601
-Ecuador,ECU,13060993
-Egypt,EGY,72849793
-Ireland,IRL,4143294
+Dominica,DMA,1
+Dominican Republic,DOM,1
+Ecuador,ECU,5
+Egypt,EGY,7
+Ireland,IRL,2
 Equatorial Guinea,GNQ,484098
-Estonia,EST,1344312
-Eritrea,ERI,4526722
-El Salvador,SLV,6668356
-Ethiopia,ETH,78985857
-Austria,AUT,8291979
-Czech Republic,CZE,10191762
+Estonia,EST,2
+Eritrea,ERI,1
+El Salvador,SLV,1
+Ethiopia,ETH,9
+Austria,AUT,10
+Czech Republic,CZE,14
 French Guiana,GUF,192099
-Finland,FIN,5246004
-Fiji,FJI,828046
+Finland,FIN,7
+Fiji,FJI,1
 Falkland Islands (Malvinas),FLK,2975
-Micronesia, Federated States of,FSM,110058
+Micronesia, Federated States of,FSM,1
 French Polynesia,PYF,255632
-France,FRA,60990544
-Gambia,GMB,1617029
-Gabon,GAB,1290693
-Georgia,GEO,4473409
-Ghana,GHA,2253501
+France,FRA,45
+Gambia,GMB,2
+Gabon,GAB,1
+Georgia,GEO,3
+Ghana,GHA,2
 Grenada,GRD,105237
 Greenland,GRL,57475
-Germany,DEU,82652369
+Germany,DEU,47
 Guam,GUM,16857
-Greece,GRC,11099737
-Guatemala,GTM,12709564
-Guinea,GIN,9002656
+Greece,GRC,18
+Guatemala,GTM,3
+Guinea,GIN,1
 Guyana,GUY,739472
-Haiti,HTI,9296291
-Honduras,HND,683411
-Croatia,HRV,455149
-Hungary,HUN,10086387
-Iceland,ISL,295732
-India,IND,1134403141
-Iran (Islamic Republic of),IRN,69420607
-Israel,ISR,6692037
-Italy,ITA,5864636
-Cote d'Ivoire,CIV,18584701
-Iraq,IRQ,27995984
-Japan,JPN,127896740
-Jamaica,JAM,2682469
-Jordan,JOR,5544066
-Kenya,KEN,35598952
-Kyrgyzstan,KGZ,5203547
-Korea, Democratic People's Republic of,PRK,23615611
-Kiribati,KIR,92003
-Korea, Republic of,KOR,47869837
+Haiti,HTI,1
+Honduras,HND,2
+Croatia,HRV,10
+Hungary,HUN,8
+Iceland,ISL,3
+India,IND,38
+Iran (Islamic Republic of),IRN,24
+Israel,ISR,9
+Italy,ITA,55
+Cote d'Ivoire,CIV,4
+Iraq,IRQ,6
+Japan,JPN,23
+Jamaica,JAM,1
+Jordan,JOR,5
+Kenya,KEN,7
+Kyrgyzstan,KGZ,3
+Korea, Democratic People's Republic of,PRK,2
+Kiribati,KIR,1
+Korea, Republic of,KOR,14
 Kuwait,KWT,2700
-Kazakhstan,KAZ,15210609
-Lao People's Democratic Republic,LAO,566391
-Lebanon,LBN,401074
-Latvia,LVA,2301793
-Belarus,BLR,9795287
-Lithuania,LTU,3425077
+Kazakhstan,KAZ,5
+Lao People's Democratic Republic,LAO,3
+Lebanon,LBN,5
+Latvia,LVA,2
+Belarus,BLR,4
+Lithuania,LTU,4
 Liberia,LBR,3441796
-Slovakia,SVK,5386995
+Slovakia,SVK,7
 Liechtenstein,LIE,34598
-Libyan Arab Jamahiriya,LBY,5918217
-Madagascar,MDG,18642586
+Libyan Arab Jamahiriya,LBY,5
+Madagascar,MDG,3
 Martinique,MTQ,395896
-Mongolia,MNG,2580704
+Mongolia,MNG,5
 Montserrat,MSR,5628
-The former Yugoslav Republic of Macedonia,MKD,2033655
-Mali,MLI,1161109
-Morocco,MAR,30494991
-Mauritius,MUS,1241173
-Mauritania,MRT,2963105
-Malta,MLT,402617
-Oman,OMN,2507042
+The former Yugoslav Republic of Macedonia,MKD,1
+Mali,MLI,4
+Morocco,MAR,9
+Mauritius,MUS,2
+Mauritania,MRT,2
+Malta,MLT,3
+Oman,OMN,6
 Maldives,MDV,295297
-Mexico,MEX,104266392
-Malaysia,MYS,25652985
-Mozambique,MOZ,20532675
-Malawi,MWI,13226091
+Mexico,MEX,35
+Malaysia,MYS,4
+Mozambique,MOZ,1
+Malawi,MWI,2
 New Caledonia,NCL,234185
 Niue,NIU,1632
-Niger,NER,1326419
+Niger,NER,3
 Aruba,ABW,102897
 Anguilla,AIA,12256
-Belgium,BEL,10398049
+Belgium,BEL,13
 Hong Kong,HKG,7057418
 Northern Mariana Islands,MNP,80258
 Faroe Islands,FRO,48205
-Andorra,AND,73483
+Andorra,AND,1
 Gibraltar,GIB,291
 Isle of Man,IMN,78357
-Luxembourg,LUX,456613
+Luxembourg,LUX,1
 Macau,MAC,47309
 Monaco,MCO,325
-Palestine,PSE,3762005
-Montenegro,MNE,607969
+Palestine,PSE,3
+Montenegro,MNE,4
 Mayotte,MYT,0
 Åland Islands,ALA,0
 Norfolk Island,NFK,0
@@ -150,94 +150,94 @@ Heard Island and McDonald Islands,HMD,0
 British Indian Ocean Territory,IOT,0
 Christmas Island,CXR,0
 United States Minor Outlying Islands,UMI,0
-Vanuatu,VUT,215366
-Nigeria,NGA,141356083
-Netherlands,NLD,1632769
-Norway,NOR,4638836
-Nepal,NPL,27093656
+Vanuatu,VUT,1
+Nigeria,NGA,2
+Netherlands,NLD,10
+Norway,NOR,8
+Nepal,NPL,4
 Nauru,NRU,10111
-Suriname,SUR,452468
-Nicaragua,NIC,5462539
-New Zealand,NZL,4097112
-Paraguay,PRY,5904342
-Peru,PER,27274266
-Pakistan,PAK,158080591
-Poland,POL,38195558
-Panama,PAN,3231502
-Portugal,PRT,10528226
-Papua New Guinea,PNG,6069715
+Suriname,SUR,2
+Nicaragua,NIC,2
+New Zealand,NZL,3
+Paraguay,PRY,1
+Peru,PER,12
+Pakistan,PAK,6
+Poland,POL,16
+Panama,PAN,5
+Portugal,PRT,17
+Papua New Guinea,PNG,1
 Guinea-Bissau,GNB,1596929
-Qatar,QAT,796186
+Qatar,QAT,1
 Reunion,REU,785159
-Romania,ROU,21627557
-Republic of Moldova,MDA,3876661
-Philippines,PHL,84566163
+Romania,ROU,8
+Republic of Moldova,MDA,1
+Philippines,PHL,6
 Puerto Rico,PRI,3946779
-Russia,RUS,143953092
+Russia,RUS,29
 Rwanda,RWA,9233793
-Saudi Arabia,SAU,2361236
-Saint Kitts and Nevis,KNA,49138
-Seychelles,SYC,85532
-South Africa,ZAF,47938663
-Lesotho,LSO,1980831
-Botswana,BWA,1835938
-Senegal,SEN,1177034
-Slovenia,SVN,1999425
+Saudi Arabia,SAU,5
+Saint Kitts and Nevis,KNA,1
+Seychelles,SYC,2
+South Africa,ZAF,10
+Lesotho,LSO,1
+Botswana,BWA,2
+Senegal,SEN,7
+Slovenia,SVN,4
 Sierra Leone,SLE,5586403
-Singapore,SGP,4327468
+Singapore,SGP,1
 Somalia,SOM,8196395
-Spain,ESP,43397491
-Saint Lucia,LCA,16124
-Sudan,SDN,36899747
-Sweden,SWE,9038049
-Syrian Arab Republic,SYR,18893881
-Switzerland,CHE,7424389
+Spain,ESP,48
+Saint Lucia,LCA,1
+Sudan,SDN,3
+Sweden,SWE,15
+Syrian Arab Republic,SYR,6
+Switzerland,CHE,12
 Trinidad and Tobago,TTO,1323722
-Thailand,THA,63002911
-Tajikistan,TJK,6550213
+Thailand,THA,5
+Tajikistan,TJK,2
 Tokelau,TKL,1401
 Tonga,TON,99361
-Togo,TGO,6238572
+Togo,TGO,1
 Sao Tome and Principe,STP,152622
-Tunisia,TUN,10104685
-Turkey,TUR,72969723
+Tunisia,TUN,8
+Turkey,TUR,18
 Tuvalu,TUV,10441
-Turkmenistan,TKM,4833266
-United Republic of Tanzania,TZA,38477873
-Uganda,UGA,28947181
-United Kingdom,GBR,60244834
-Ukraine,UKR,46917544
-United States,USA,299846449
-Burkina Faso,BFA,13933363
-Uruguay,URY,3325727
-Uzbekistan,UZB,26593123
+Turkmenistan,TKM,3
+United Republic of Tanzania,TZA,7
+Uganda,UGA,3
+United Kingdom,GBR,32
+Ukraine,UKR,7
+United States,USA,24
+Burkina Faso,BFA,3
+Uruguay,URY,2
+Uzbekistan,UZB,5
 Saint Vincent and the Grenadines,VCT,119137
-Venezuela,VEN,26725573
+Venezuela,VEN,3
 British Virgin Islands,VGB,22016
-Viet Nam,VNM,85028643
+Viet Nam,VNM,8
 United States Virgin Islands,VIR,111408
-Namibia,NAM,2019677
+Namibia,NAM,2
 Wallis and Futuna Islands,WLF,15079
 Samoa,WSM,183845
 Swaziland,SWZ,1124529
-Yemen,YEM,21095679
-Zambia,ZMB,11478317
-Zimbabwe,ZWE,13119679
-Indonesia,IDN,226063044
+Yemen,YEM,4
+Zambia,ZMB,1
+Zimbabwe,ZWE,5
+Indonesia,IDN,9
 Guadeloupe,GLP,438403
 Netherlands Antilles,ANT,186392
-United Arab Emirates,ARE,4104291
+United Arab Emirates,ARE,1
 Timor-Leste,TLS,1067285
 Pitcairn Islands,PCN,5
-Palau,PLW,20127
-Marshall Islands,MHL,5672
+Palau,PLW,1
+Marshall Islands,MHL,1
 Saint Pierre and Miquelon,SPM,6346
 Saint Helena,SHN,6399
-San Marino,SMR,30214
+San Marino,SMR,1
 Turks and Caicos Islands,TCA,24459
 Western Sahara,ESH,440428
-Serbia,SRB,9863026
-Holy See (Vatican City),VAT,783
+Serbia,SRB,5
+Holy See (Vatican City),VAT,2
 Svalbard,SJM,0
 Saint Martin,MAF,0
 Saint Barthelemy,BLM,0
