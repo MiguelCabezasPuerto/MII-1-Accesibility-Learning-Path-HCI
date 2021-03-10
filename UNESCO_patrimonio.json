@@ -310,9 +310,9 @@
     "pop": 0
   },
   {
-    "name": "Micronesia",
-    "code": "Federated States of",
-    "pop": "FSM"
+    "name": "Federated States of Micronesia",
+    "code": "FSM",
+    "pop": 0
   },
   {
     "name": "French Polynesia",
@@ -362,7 +362,7 @@
   {
     "name": "Guam",
     "code": "GUM",
-    "pop": 16857
+    "pop": 0
   },
   {
     "name": "Greece",
@@ -465,9 +465,9 @@
     "pop": 3
   },
   {
-    "name": "Korea",
-    "code": "Democratic People's Republic of",
-    "pop": "PRK"
+    "name": "Democratic People's Republic of Korea",
+    "code": "PRK",
+    "pop": 0
   },
   {
     "name": "Kiribati",
@@ -475,14 +475,14 @@
     "pop": 1
   },
   {
-    "name": "Korea",
-    "code": "Republic of",
-    "pop": "KOR"
+    "name": "Republic of Korea",
+    "code": "KOR",
+    "pop": 0
   },
   {
     "name": "Kuwait",
     "code": "KWT",
-    "pop": 2700
+    "pop": 0
   },
   {
     "name": "Kazakhstan",
@@ -682,12 +682,12 @@
   {
     "name": "Macau",
     "code": "MAC",
-    "pop": 47309
+    "pop": 0
   },
   {
     "name": "Monaco",
     "code": "MCO",
-    "pop": 325
+    "pop": 0
   },
   {
     "name": "Palestine",
