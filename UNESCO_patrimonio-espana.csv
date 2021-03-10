@@ -3,8 +3,8 @@ name,code,pop
  Albacete,ALB,0
  Alicante,ALC,3
  Almería,ALM,1
- Asturias,AST,1
- Ávila,AV,1
+ Asturias,AST,2
+ Ávila,AV,2
  Badajoz,BAD,1
  Barcelona,BAR,2
  Burgos,BU,3
@@ -16,11 +16,11 @@ name,code,pop
  Córdoba,COR,2
  Cuenca,CUE,1
  Gerona,GER,0
- Granada,GRA,1
+ Granada,GRA,3
  Guadalajara,GUA,0
  Guipúzcoa,GUI,0
  Huelva,HUE,1
- Huesca,HU,2
+ Huesca,HU,3
  Islas Baleares,IB,2
  Jaén,JA,1
  La Coruña,AC,2
@@ -38,7 +38,7 @@ name,code,pop
  Pontevedra,PO,0
  Salamanca,SA,2
  Santa Cruz de Tenerife,SCT,3
- Segovia,SG,1
+ Segovia,SG,2
  Sevilla,SE,1
  Soria,SO,0
  Tarragona,TA,2
