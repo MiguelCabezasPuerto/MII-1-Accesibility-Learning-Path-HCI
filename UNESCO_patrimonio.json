@@ -362,7 +362,7 @@
   {
     "name": "Guam",
     "code": "GUM",
-    "pop": 16857
+    "pop": 0
   },
   {
     "name": "Greece",
@@ -465,9 +465,9 @@
     "pop": 3
   },
   {
-    "name": "Korea",
-    "code": "Democratic People's Republic of",
-    "pop": "PRK"
+    "name": "Democratic People's Republic of Korea",
+    "code": "PRK",
+    "pop": 0
   },
   {
     "name": "Kiribati",
@@ -475,9 +475,9 @@
     "pop": 1
   },
   {
-    "name": "Korea",
-    "code": "Republic of",
-    "pop": "KOR"
+    "name": "Republic of Korea",
+    "code": "KOR",
+    "pop": 0
   },
   {
     "name": "Kuwait",
@@ -622,7 +622,7 @@
   {
     "name": "Niue",
     "code": "NIU",
-    "pop": 1632
+    "pop": 0
   },
   {
     "name": "Niger",
@@ -682,12 +682,12 @@
   {
     "name": "Macau",
     "code": "MAC",
-    "pop": 47309
+    "pop": 0
   },
   {
     "name": "Monaco",
     "code": "MCO",
-    "pop": 325
+    "pop": 0
   },
   {
     "name": "Palestine",
