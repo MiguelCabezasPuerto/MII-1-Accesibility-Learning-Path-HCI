@@ -310,9 +310,9 @@
     "pop": 0
   },
   {
-    "name": "Micronesia",
-    "code": "Federated States of",
-    "pop": "FSM"
+    "name": "Federated States of Micronesia",
+    "code": "FSM",
+    "pop": 0
   },
   {
     "name": "French Polynesia",
@@ -482,7 +482,7 @@
   {
     "name": "Kuwait",
     "code": "KWT",
-    "pop": 2700
+    "pop": 0
   },
   {
     "name": "Kazakhstan",
