@@ -1,0 +1,263 @@
+ 
+  body {
+	  font-family: verdana, arial, helvetica, sans-serif;
+		font-size: 1.2em;
+		color: #666;
+	}
+img{
+	position: relative;
+  	width: 20%;
+  	height: 20%;
+  	vertical-align: middle;
+}
+#slogan{
+	font-style: italic;
+}
+.ava-ret{
+	text-align: right;
+	margin-top: 5%;
+	margin-bottom: 5%
+}
+
+.btn{
+	text-decoration: none;
+    padding: 10px;
+    color: #ffffff;
+    background-color: #CC9900;
+    border-radius: 6px;
+    border: 2px solid #CD9900;
+    font-size: 0.5em;
+}
+.btn:hover{
+    color: #CC9900;
+    background-color: #ffffff;
+}
+
+.enlace_normal {
+    text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .3s;
+}
+
+.enlace_normal:hover, .enlace_normal:focus {
+    background-size: 100% 2px;
+}
+.enlace_normal:visited {
+color: #ff0080; /* verde */
+}
+
+	
+	#contenido {
+    width:60em;
+  	margin-top: 0em;
+  	margin-bottom: 3em;
+    margin-left:auto; 
+    margin-right:auto;
+    text-align:left;  
+	}	
+	.t1{
+	font-family: arial, verdana, helvetica, sans-serif;
+  	font-size: 1.0em;
+  	font-weight: bold;
+  	color: #ccc;
+  	clear: both;
+	}
+	.t2{	
+	  font-size: 1.2em;
+	  font-weight: bold;
+		color: #fff;
+		background-color: #CC9900;
+	  padding: 0.3em;
+	}
+	.t3{
+	  font-size: 1.2em;
+	  font-weight: bold;
+		color: #000000;
+	}
+	caption{
+	font-size: 1.2em;
+	  font-weight: bold;
+		color: #fff;
+		background-color: #CC9900;
+	  padding: 0.3em;
+	  text-align: left;
+	}
+
+	h1{
+	font-family: arial, verdana, helvetica, sans-serif;
+  	font-size: 1.5em;
+  	font-weight: bold;
+  	vertical-align: middle;
+  	clear: both;
+  	display: inline-block
+	}
+	
+	h2{	
+	  font-size: 1.2em;
+	  font-weight: bold;
+		color: #fff;
+		background-color: #CC9900;
+	  padding: 0.3em;
+	}
+	
+	h3{
+	  font-size: 1.2em;
+	  font-weight: bold;
+		color: #000000;
+	}
+
+
+/************************************************
+*                  CABECERA                    *
+************************************************/
+	
+	
+	#logo{
+	  background-color: #f0f0f0;
+		border: 1px solid #ccc;
+		padding: 1em 2em 1em 2em;
+		font-size: 0.5em;
+		}
+	
+	#la{
+	  font-family: arial, helvetica, sans-serif;
+	  font-weight: bold;
+	  font-size: 3.0em;
+		color: #CC9900;
+	}
+	
+	#aceitera{
+	  font-family: arial, helvetica, sans-serif;
+		font-weight: bold;
+	  font-size: 3.0em;
+		color: #000;
+	}
+	
+	#lema{
+	  font-family: arial, helvetica, sans-serif;
+		font-weight: bold;
+	  font-size: 1.2em;
+		font-style: italic;
+		color: #999;
+	}	
+	
+	
+/************************************************
+*            CESTA de la compra                *
+************************************************/
+	
+	
+	#tabla_compra {
+	  width: 60em;
+	  font-family: verdana, arial, helvetica, sans-serif;
+		font-size: 1.0em;
+	}
+	
+	#tabla_compra td{
+	  padding: 0.5em;
+	}
+	
+	#conceptos td{
+	  background-color: #f0f0f0;
+		border: 1px solid #ccc;
+	}
+	
+	#total td{
+	  padding-top: 0.5em;
+		border-top: 1px solid #ccc;
+	}
+	
+	#info_en{
+	  font-size: 0.9em;
+	  text-align: right;
+	}
+
+
+/************************************************
+*       Datos de facturación (formulario)      *
+************************************************/	
+
+	
+	.info{
+		color:  #000;	
+	  background-color: #EEF6FF;
+		border: 1px solid #0B639A;
+		padding: 0.5em;
+		margin: 0em 0.5em 0em 0.5em;
+	}
+	
+	.i{
+	  color: #fff;
+		background-color: #039;		
+		font-weight: bold;
+		font-size: 1.2em;
+		padding: 0.1em 0.6em 0.1em 0.6em;
+		margin-right: 0.6em;
+	}
+	
+	#datos_personales{
+    float:left; 
+		width: 30em;	
+  }
+	
+	#datos_envio{
+		float: left;			
+	}
+  
+	.observaciones{	
+	  clear: both; 
+		padding-top: 2em;
+	resize: none;
+  }
+	
+	.campo_form{
+	  margin-top: 0.5em;
+	}
+	
+  .campo_form label{
+    padding-left: 1em;
+		padding-right: 1em;
+    display: block;
+    width: 10em;
+    float: left;
+		text-align: left;
+  }
+	
+	#submit{
+	  text-align: right;
+	}
+.realizar_pedido{
+	text-decoration: none;
+    color: #ffffff;
+    background-color: #CC9900;
+    border-radius: 6px;
+    border: 2px solid #CD9900;
+}
+.realizar_pedido:hover{
+    color: #CC9900;
+    background-color: #ffffff;
+}
+
+
+/************************************************
+*          Garantías y pie de página           *
+************************************************/
+
+
+	#garantias{
+	  text-align: left;
+	  line-height: 1.5em
+	}	
+
+	.lista{
+	  padding-left: 2em;
+	}	
+	
+	#pie{
+	  border-top: 3px solid #ccc;
+		padding: 1em;
+		text-align: center;
+	}

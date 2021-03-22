@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv=”Content-Type” content=”text/html; charset=UTF-8″ />
+  <title></title>
+  <link rel="stylesheet" type="text/css" href="estilos.css" media="all"/>
+</head>
+
+<body>
+
+<div id="contenido">
+	<script type="text/javascript" src="confirmacion.js"></script>
+
+<!--
+************************************************
+*                  CABECERA                    *
+************************************************
+-->
+
+<h1>
+  <img src="logo.png" alt="La aceitera tu tienda de aceite en Internet" />
+  La Aceitera, <span id="slogan">tu tienda de aceite en Internet</span>
+ </h1>
+
+
+<p class="t1">Paso 3 de 3 - Facturación</p>
+
+<!--
+************************************************
+*             DATOS de facturación             *
+************************************************
+-->
+
+
+<div id="datos">
+
+  <h2>Datos de facturación</h2>
+
+  <p class="info"><span class="i">i</span> Los campos marcados con asterisco son obligatorios.</p>
+
+<form action="" method="post" name="form1">
+<fieldset>
+<legend>Datos personales</legend>
+      <div class="campo_form">
+        <label for="empresa">Empresa </label>
+        <input id="empresa" name="empresa" type="text" placeholder="MSC Salamanca" tabindex="1" size=50/>
+      </div>
+      <div class="campo_form">
+        <label for="nombre "class="obligatorio">Nombre(*)</label>
+        <input id="nombre" name="nombre" type="text" placeholder="Miguel" tabindex="2" size=50/>
+      </div>
+      <div class="campo_form">
+        <label for="apellidos" class="obligatorio">Apellidos(*) </label>
+        <input id="apellidos" name="apellidos" type="text" placeholder="Cabezas Puerto" tabindex="3" size=50/>
+      </div>
+    <div class="campo_form">
+        <label for="email" class="obligatorio">e-mail(*) </label>
+        <input id="email" name="email" type="text" placeholder="miguelcabezaspuerto@usal.es" tabindex="4" size=50/>
+      </div>
+     <div class="campo_form">
+        <label for="tlf" class="obligatorio">Tlf. de contacto(*) </label>
+        <input id="tlf" name="tlf" type="text" placeholder="+34612151113" tabindex="5" size=50/>
+      </div>
+      <div class="campo_form">
+        <label for="nif">NIF/CIF </label>
+        <input id="nif" name="nif" type="text" placeholder="70911497J" tabindex="6" size=50/>
+      </div>
+</fieldset>
+
+<fieldset>
+<legend>Datos de envío</legend>
+    	<div class="campo_form">
+        <label for="dir" class="obligatorio">Dirección(*) </label>
+        <input id="dir" name="dir" type="text" placeholder="Plaza de los Caídos, 2" tabindex="7" size=50/>
+      </div>
+      <div class="campo_form">
+        <label for="localidad" class="obligatorio">Localidad(*) </label>
+        <input id="localidad" name="localidad" type="text" placeholder="Salamanca" tabindex="8" size=50/>
+      </div>
+    	<div class="campo_form">
+        <label for="priovincia" class="obligatorio">Provincia(*) </label>
+        <input id="provincia" name="provincia" type="text" placeholder="Salamanca" tabindex="9" size=50/>
+      </div>
+    	<div class="campo_form">
+        <label for="cp" class="obligatorio">CP(*) </label>
+        <input id="cp" name="cp" type="text" placeholder="37008" tabindex="10" size=50/>
+      </div>
+      <div class="campo_form">
+       <label for="horario">Horario de entrega </label>
+       <select name="horario" tabindex="11">    
+        	<option selected="selected" value="all">Todo el día</option>    
+        	<option value="a" >De 9:00 a 14:00 horas</option>      
+        	<option value="b">De 14:00 a 19:00 horas</option>      
+        </select>
+     </div>
+    </div>
+  
+  </fieldset>
+
+  <fieldset>
+    <legend>Observaciones</legend>
+   <div class="campo_form">
+      <textarea class="observaciones" rows="6" cols="80" id="obs" name="obs" tabindex="12">      </textarea>
+    </div>
+  </fieldset>
+
+    <p id="submit">
+      <input class="realizar_pedido" value="Realizar Pedido" type="button" onclick="pregunta()"  tabindex="13"/>
+    </p>
+  </form>
+<p class="ava-ret">
+   <a href="garantias.html" class="btn" tabindex="14">Anterior</a>
+</p>
+</div>
+
+
+
+  
+  <p id="pie"> 2016 La Aceitera. 37008 Salamanca</p>
+
+</div>
+
+
+
+
+</body></html>
