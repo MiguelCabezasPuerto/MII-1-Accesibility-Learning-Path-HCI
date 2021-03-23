@@ -10,6 +10,14 @@ img{
   	height: 20%;
   	vertical-align: middle;
 }
+
+#tabla_compra{
+	border: 1
+}
+#dinero_total{
+	text-align: left;
+	font-weight: bold;
+}
 #slogan{
 	font-style: italic;
 }
